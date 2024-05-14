@@ -17,5 +17,5 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/',[pagecontroller::class, 'index'])->name('home');
 
-Route::get('/nuova-pagina',[pagecontroller::class, 'nuovaPagina'])->name('nuova-pagina');
+Route::get('/lista-treni',[pagecontroller::class, 'listaTreni'])->name('lista-treni');
 
