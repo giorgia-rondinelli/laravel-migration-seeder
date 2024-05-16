@@ -1,1 +1,1 @@
-Creazione di una tabella trains e relativa Migration
+Creazione di una tabella trains e relativa Migration.
